@@ -1,0 +1,15 @@
+/* Write your CSS here */
+.card {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.btn {
+  border: 1px solid #ff0b37;
+  color: #ff0b37;
+  background-color: transparent;
+  width: 70px;
+  height: 30px;
+  cursor: pointer;
+  border-radius: 10px;
+}
